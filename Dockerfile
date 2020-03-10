@@ -18,3 +18,4 @@ RUN python db_create.py
 
 # Go go go
 CMD ["python", "-m", "qa_app"]
+hello-dummy
